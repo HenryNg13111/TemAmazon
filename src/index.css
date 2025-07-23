@@ -1,0 +1,28 @@
+
+.NavBarContainer{
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    border-bottom: 2px solid green;
+}
+.NavBarPrimaryContainer{
+    display: flex;
+    padding: 1rem;
+}
+.NavBarPrimaryLogo{
+ margin: 1rem;       
+}
+.NavBarPrimarySearchBar{
+    margin: 1rem;
+    margin-left: auto;
+}
+.NavBarPrimarySignIn{
+    margin: 1rem;
+    margin-left: 5rem;
+}
+.NavBarSecondaryContainer{
+    margin-left: auto;
+    width: fit-content;
+    padding-right: 10px;
+    padding-left: 10px;
+}
